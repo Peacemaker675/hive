@@ -44,6 +44,7 @@ Each recipe is a markdown file (or folder with a markdown file) containing:
 | [invoicing_collections](invoicing_collections/) | Send invoices and chase overdue payments |
 | [data_keeper](data_keeper/) | Pull data from multiple sources into unified reports |
 | [calendar_coordination](calendar_coordination/) | Protect Deep Work time and book travel |
+| [document_processing](document_processing/) | Extract structured data from messy text |
 
 ### Technical & Product Maintenance
 | Recipe | Description |
